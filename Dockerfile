@@ -1,7 +1,7 @@
 FROM alpine:latest
 LABEL author="Jason Etcovitch <jasonetco@github.com>"
 
-LABEL "com.github.actions.name"="Upload to Release"
+LABEL "com.github.actions.name"="mike is cool"
 LABEL "com.github.actions.description"="Uploads a file to a new release."
 LABEL "com.github.actions.icon"="package"
 LABEL "com.github.actions.color"="blue"
